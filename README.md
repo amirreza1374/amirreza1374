@@ -1,8 +1,7 @@
 
 ![Untitled (2)](https://github.com/amirreza1374/amirreza1374/assets/126147703/a54cc9c5-0a33-4c28-855c-cb665b5b709c)
 
-<h1 align="center">Hi 👋, I'm Amirreza Hassani</h1>
-<h3 align="center">A passionate frontend developer from Iran</h3>
+
 
 <img align="right" alt="Coding" width="400" src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif">
 
